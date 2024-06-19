@@ -1,4 +1,4 @@
-package Udemy.Java.course_Radius.src.util;
+package course_Radius.src.util;
 
 public class Calculator {
     public static final double PI = 3.14159265359;

@@ -1,4 +1,4 @@
-package Udemy.Java.course_Dolar.src.util;
+package course_Dolar.src.util;
 
 public class CurrencyConverter {
     public static final double IOF = 0.06;

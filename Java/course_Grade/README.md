@@ -1,6 +1,6 @@
 ## Conteúdo
 
-Exercício de POO: grade escolar - notas
+Exercício de POO: notas de alunos
 
 ## Estrutura do arquivo
 

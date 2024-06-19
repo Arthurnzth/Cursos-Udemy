@@ -1,6 +1,6 @@
 ## Conteúdo
 
-Exercício de POO: calculo de triângulo
+Exercício de POO: calculos de triangulo
 
 ## Estrutura do arquivo
 

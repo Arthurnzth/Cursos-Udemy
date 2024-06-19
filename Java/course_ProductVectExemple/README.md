@@ -1,6 +1,6 @@
 ## Conteúdo
 
-Exercício de POO: calculos com raio -> esfera e circunferencia
+Exercício de POO: programa exemplo da aula da Udemy de vetor com elementos de tipo Classe
 
 ## Estrutura do arquivo
 

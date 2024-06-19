@@ -1,9 +1,9 @@
-package Udemy.Java.course_Radius.src.app;
+package course_Radius.src.app;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-import Udemy.Java.course_Radius.src.util.Calculator;
+import course_Radius.src.util.Calculator;
 
 public class Program {
     public static void main(String[] args) {

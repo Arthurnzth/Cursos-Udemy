@@ -1,6 +1,6 @@
 ## Conteúdo
 
-Exercício de POO: calculo de retângulo
+Exercício de POO: calculos de retangulo
 
 ## Estrutura do arquivo
 

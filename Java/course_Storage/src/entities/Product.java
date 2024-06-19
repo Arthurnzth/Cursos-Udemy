@@ -1,4 +1,4 @@
-package Udemy.Java.course_Storage.src.entities;
+package course_Storage.src.entities;
 
 public class Product {
 

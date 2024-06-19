@@ -1,6 +1,6 @@
 ## Conteúdo
 
-Exercício de POO: dados de funcionário
+Exercício de POO: dados de salário funcionário
 
 ## Estrutura do arquivo
 
