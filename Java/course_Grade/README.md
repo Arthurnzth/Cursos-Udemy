@@ -1,6 +1,6 @@
 ## Conteúdo
 
-Exercício de POO: notas de alunos
+Exercício de POO: notas
 
 ## Estrutura do arquivo
 

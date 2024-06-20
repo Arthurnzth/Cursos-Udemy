@@ -1,6 +1,6 @@
 ## Conteúdo
 
-Exercício de POO: aprovação ou reprovação de alunos
+Exercício de POO: aprovação/reprovação notas
 
 ## Estrutura do arquivo
 

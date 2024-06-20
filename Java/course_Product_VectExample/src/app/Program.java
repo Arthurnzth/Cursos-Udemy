@@ -1,8 +1,9 @@
-package course_ProductVectExemple.src.app;
+package Udemy.Java.course_Product_VectExample.src.app;
 
 import java.util.Locale;
 import java.util.Scanner;
-import course_ProductVectExemple.src.entities.Product;
+
+import Udemy.Java.course_Product_VectExample.src.entities.Product;
 
 public class Program {
     public static void main(String[] args) {

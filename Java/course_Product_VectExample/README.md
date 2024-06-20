@@ -1,6 +1,6 @@
 ## Conteúdo
 
-Exercício de POO: programa exemplo da aula da Udemy de vetor com elementos de tipo Classe
+Exercício de POO: programa exemplo para vetor com elementos de tipo Classe
 
 ## Estrutura do arquivo
 

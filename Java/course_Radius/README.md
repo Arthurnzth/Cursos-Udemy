@@ -1,6 +1,6 @@
 ## Conteúdo
 
-Exercício de POO: calculos com raio -> esfera e circunferencia
+Exercício de POO: calculos com raio
 
 ## Estrutura do arquivo
 

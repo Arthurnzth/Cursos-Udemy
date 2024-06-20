@@ -1,6 +1,6 @@
 ## Conteúdo
 
-Exercício de POO: conta bancária para depósito e saque
+Exercício de POO: conta bancária para saque e depósito
 
 ## Estrutura do arquivo
 

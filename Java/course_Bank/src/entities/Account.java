@@ -1,4 +1,4 @@
-package course_Bank.src.entities;
+package Udemy.Java.course_Bank.src.entities;
 
 public class Account {
 

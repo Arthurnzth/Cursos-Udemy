@@ -1,9 +1,9 @@
-package app;
+package Udemy.Java.course_Alturas.src.app;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-import entities.Person;
+import Udemy.Java.course_Alturas.src.entities.Person;
 
 public class Program {
     public static void main(String[] args) {

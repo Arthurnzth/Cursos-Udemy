@@ -1,9 +1,9 @@
-package course_Bank.src.app;
+package Udemy.Java.course_Bank.src.app;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-import course_Bank.src.entities.Account;
+import Udemy.Java.course_Bank.src.entities.Account;
 
 public class Program {
     public static void main(String[] args) {

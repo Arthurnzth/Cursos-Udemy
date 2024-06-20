@@ -1,4 +1,4 @@
-package course_Storage.src.entities;
+package Udemy.Java.course_Storage.src.entities;
 
 public class Product {
 
@@ -49,4 +49,5 @@ public class Product {
                     + ", " + quantity + " units, Total: $ " 
                     + String.format("%.2f", totalValueInStock()));
     }
+    
 }

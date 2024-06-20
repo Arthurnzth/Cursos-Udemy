@@ -1,6 +1,6 @@
 ## Conteúdo
 
-Exercício de POO: atualização de estoque
+Exercício de POO: contorle de estoque
 
 ## Estrutura do arquivo
 

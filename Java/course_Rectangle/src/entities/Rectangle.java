@@ -1,10 +1,12 @@
-package course_Rectangle.src.entities;
+package Udemy.Java.course_Rectangle.src.entities;
 
 import java.lang.Math;
 
 public class Rectangle {
+
     public double width;
     public double height;
+
     public double area(){
         return width*height;
     }
@@ -14,4 +16,5 @@ public class Rectangle {
     public double diagonal(){
         return Math.sqrt(Math.pow(width,2)+Math.pow(height,2));
     }
+    
 }

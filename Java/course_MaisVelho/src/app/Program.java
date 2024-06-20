@@ -1,9 +1,9 @@
-package app;
+package Udemy.Java.course_MaisVelho.src.app;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-import entities.PersonOlder;
+import Udemy.Java.course_MaisVelho.src.entities.Person;
 
 public class Program {
     public static void main(String[] args) {
@@ -13,7 +13,7 @@ public class Program {
         System.out.print("Quantas pessoas voce vai digitar? ");
         int n = Integer.parseInt(sc.nextLine());
 
-        PersonOlder[] pessoas = new PersonOlder[n];
+        Person[] pessoas = new Person[n];
 
         for(int i=0;i<pessoas.length;i++){
             System.out.printf("Dados da %da pessoa:\n", i+1);
@@ -21,16 +21,15 @@ public class Program {
             String name = sc.nextLine();
             System.out.print("Idade: ");
             int age = Integer.parseInt(sc.nextLine());
-            pessoas[i] = new PersonOlder(name, age);
+            pessoas[i] = new Person(name, age);
         }
 
+        int olderAge = 0;
         String older = "";
-        for(int i=0;i<pessoas.length-1;i++){
-            if(pessoas[i].getAge()>pessoas[i+1].getAge()){
+        for(int i=0;i<pessoas.length;i++){
+            if(pessoas[i].getAge()>olderAge){
                 older = pessoas[i].getName();
-            }
-            else{
-                older = pessoas[i+1].getName();
+                olderAge = pessoas[i].getAge();
             }
         }
 

@@ -1,9 +1,9 @@
-package course_Grade.src.app;
+package Udemy.Java.course_Grade.src.app;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-import course_Grade.src.entities.Grades;
+import Udemy.Java.course_Grade.src.entities.Grades;
 
 public class Program {
     public static void main(String[] args) {

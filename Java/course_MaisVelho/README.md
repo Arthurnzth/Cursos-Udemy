@@ -1,6 +1,6 @@
 ## Conteúdo
 
-Exercício de POO: pessoa mais velha
+Exercício de POO: quem é o mais velho
 
 ## Estrutura do arquivo
 

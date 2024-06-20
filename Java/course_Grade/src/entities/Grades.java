@@ -1,10 +1,12 @@
-package course_Grade.src.entities;
+package Udemy.Java.course_Grade.src.entities;
 
 public class Grades {
+
     public String name;
     public double firstQuarter;
     public double secondQuarter;
     public double thirdQuarter;
+    
     public double finalGrade(){
         return firstQuarter+secondQuarter+thirdQuarter;
     }
@@ -16,4 +18,5 @@ public class Grades {
             return 0;
         }
     }
+
 }
