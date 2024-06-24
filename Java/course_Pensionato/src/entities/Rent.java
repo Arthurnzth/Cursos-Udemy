@@ -1,15 +1,15 @@
 package Udemy.Java.course_Pensionato.src.entities;
 
-public class Student {
+public class Rent {
 
     private String name;
     private String email;
 
-    public Student(String name, String email) {
+    public Rent(String name, String email) {
         this.name = name;
         this.email = email;
     }
-    public Student(){
+    public Rent(){
     }
 
     public String getName(){
@@ -17,6 +17,10 @@ public class Student {
     }
     public String getEmail(){
         return this.email;
+    }
+
+    public String toString(){
+        return name + ", " + email;
     }
     
 }
