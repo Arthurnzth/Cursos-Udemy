@@ -38,3 +38,5 @@ git checkout -> permite modificar temporariamente os arquivos do projeto ao esta
 git reset --soft HEAD~1 -> desfaz último commit sem desfazer as modificações nos arquivos
 git reset --hard <código do commit>
 git reset --hard HEAD~1 -> desfazer commits desfazendo também alterações posteriores
+
+git push -f <nome do remote> <nome do branch>
