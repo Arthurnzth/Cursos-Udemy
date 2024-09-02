@@ -4,9 +4,37 @@ git config --global user.email "arthurnz.personal@gmal.com"
 git init -> iniciar repositório
 git add . -> staging
 git status -> status
+    modified -> arquivo já existente modificado
+    deleted -> arquivo existente deletado
+    untracked -> arquivo novo nunca existente
 git commit -m "..." -> salvar versão
-git branch -M main
+git branch -M "main"
 git remote add origin git@github.com:seuusuario/seurepositorio.git
-git push -u origin main -> sincronizar versão com repositório
+git push -u origin main
+git pull origin main
 
 ls -> ver arquivos no local
+
+git clone git@github.com:seuusuario/seurepositorio.git -> clonar um repositório
+git log -> histórico de versões
+git log --oneline -> histórico de versões resumido
+git reset -> retira do stage
+git diff -> mostra a diferença entre arquivos modificados
+
+git checkout -> permite modificar temporariamente os arquivos do projeto ao estado de um dado commit ou branch
+    HEAD~1 -> volta 1 versão da main
+    HEAD~2 -> volta 2 versões da main
+    ! não modificar os arquivos ao fazer checkout e voltar para main
+    git reset
+    git clean -df
+    git checkout -- . -> desfazer modificações não salvas
+
+.gitignore -> arquivo que indica o que não deve ser salvo pelo git
+    - arquivos compilados
+    - arquivos de bibliotecas externas usadas no projeto
+    - arquivos de configuração da sua IDE
+    - arquivos de configuração do seu sistema
+
+git reset --soft HEAD~1 -> desfaz último commit sem desfazer as modificações nos arquivos
+git reset --hard <código do commit>
+git reset --hard HEAD~1 -> desfazer commits desfazendo também alterações posteriores
