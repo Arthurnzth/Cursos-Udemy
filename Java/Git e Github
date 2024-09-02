@@ -4,9 +4,9 @@ git config --global user.email "arthurnz.personal@gmal.com"
 git init -> iniciar repositório
 git add . -> staging
 git status -> status
-gi commit -m "..." -> salvar versão
-git branch -M "main"
+git commit -m "..." -> salvar versão
+git branch -M main
 git remote add origin git@github.com:seuusuario/seurepositorio.git
-git push -u origin main
+git push -u origin main -> sincronizar versão com repositório
 
 ls -> ver arquivos no local
