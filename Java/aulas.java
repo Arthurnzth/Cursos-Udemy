@@ -216,4 +216,18 @@
     -Cálculos com data-hora
         - Data-hora +/- tempo -> Data-hora
         - Data-hora 1, Data-hora 2 -> Duração
+
+! ==================================================================================================================================================== !
+
+# ENUMERAÇÕES
+
+- é um tipo especial que serve para especificar de forma literal um conjunto de constantes relacionadas
+- palavra chave: enum
+- melhor semântica, código mais legível e auxiliado pelo compilador
+
+# COMPOSIÇÃO
+
+- é um tipo de associação que permite que um objeto contenha outro
+- relação "tem-um" ou "tem-vários"
+- organização, coesão, flixibilidade, reuso
 */
