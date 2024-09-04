@@ -1,4 +1,4 @@
-package Udemy.Java.course_Aprovados.src.entities;
+package course_Aprovados.src.entities;
 
 public class Student {
 

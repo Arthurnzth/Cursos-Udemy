@@ -1,9 +1,9 @@
-package Udemy.Java.course_Aprovados.src.app;
+package course_Aprovados.src.app;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-import Udemy.Java.course_Aprovados.src.entities.Student;
+import course_Aprovados.src.entities.Student;
 
 public class Program {
     public static void main(String[] args) {
