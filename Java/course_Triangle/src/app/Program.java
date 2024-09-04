@@ -1,9 +1,9 @@
-package Udemy.Java.course_Triangle.src.app;
+package course_Triangle.src.app;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-import Udemy.Java.course_Triangle.src.entities.Triangle;
+import course_Triangle.src.entities.Triangle;
 
 public class Program {
     public static void main(String[] args) {

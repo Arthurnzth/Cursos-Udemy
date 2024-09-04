@@ -1,4 +1,4 @@
-package Udemy.Java.course_Alturas.src.entities;
+package course_Alturas.src.entities;
 
 public class Person {
 

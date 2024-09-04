@@ -1,4 +1,4 @@
-package Udemy.Java.course_Triangle.src.entities;
+package course_Triangle.src.entities;
 
 public class Triangle {
 
