@@ -222,12 +222,39 @@
 # ENUMERAÇÕES
 
 - é um tipo especial que serve para especificar de forma literal um conjunto de constantes relacionadas
-- palavra chave: enum
+* palavra chave: enum
 - melhor semântica, código mais legível e auxiliado pelo compilador
 
 # COMPOSIÇÃO
 
 - é um tipo de associação que permite que um objeto contenha outro
-- relação "tem-um" ou "tem-vários"
+* relação "tem-um" ou "tem-vários"
 - organização, coesão, flixibilidade, reuso
+
+! ==================================================================================================================================================== !
+
+# HERANÇA E POLIMORFISMO
+
+# HERANÇA
+
+- é um tipo de associação que permite que uma classe herde todos dados e comportamentos de outra
+* class A extends B (A herda B)
+* relação "é-um"
+- generalização/especialização
+- superclasse (classe base) / subclasse (classe derivada)
+- herança / extensão
+* heraça é uma associação entre classes (e não entre objetos)
+
+# UPCASTING
+* casting da subcalsse para superclasse
+- uso comum: polimorfismo
+# DOWNCASTING
+* casting da superclasse para subclasse
+- palavra instanceof
+- uso comum: métodos que recebem parâmetros genéricos (ex: Equals)
+
+# SOBREPOSIÇÃO OU SOBRESCRITA
+- é a implementação de um método de uma superclasse na subcalsse
+* @Override
+* super
 */
