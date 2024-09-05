@@ -1,4 +1,4 @@
-package Udemy.Java.course_Grade.src.entities;
+package course_Grade.src.entities;
 
 public class Grades {
 
