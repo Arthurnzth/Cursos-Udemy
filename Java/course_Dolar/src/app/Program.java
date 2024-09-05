@@ -1,9 +1,9 @@
-package Udemy.Java.course_Dolar.src.app;
+package course_Dolar.src.app;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-import Udemy.Java.course_Dolar.src.util.CurrencyConverter;
+import course_Dolar.src.util.CurrencyConverter;
 
 public class Program {
     public static void main(String[] args) {

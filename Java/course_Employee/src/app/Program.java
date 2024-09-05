@@ -1,9 +1,9 @@
-package Udemy.Java.course_Employee.src.app;
+package course_Employee.src.app;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-import Udemy.Java.course_Employee.src.entities.Employee;
+import course_Employee.src.entities.Employee;
 
 public class Program {
     public static void main(String[] args) {
