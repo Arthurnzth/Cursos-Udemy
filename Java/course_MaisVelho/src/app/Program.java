@@ -1,9 +1,9 @@
-package Udemy.Java.course_MaisVelho.src.app;
+package course_MaisVelho.src.app;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-import Udemy.Java.course_MaisVelho.src.entities.Person;
+import course_MaisVelho.src.entities.Person;
 
 public class Program {
     public static void main(String[] args) {

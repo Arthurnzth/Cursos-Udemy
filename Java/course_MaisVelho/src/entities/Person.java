@@ -1,4 +1,4 @@
-package Udemy.Java.course_MaisVelho.src.entities;
+package course_MaisVelho.src.entities;
 
 public class Person {
 
