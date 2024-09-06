@@ -1,4 +1,4 @@
-package Udemy.Java.course_MatrizEP.src.app;
+package course_MatrizEP.src.app;
 
 import java.util.Scanner;
 

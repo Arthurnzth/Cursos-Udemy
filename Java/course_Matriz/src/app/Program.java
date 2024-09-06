@@ -1,4 +1,4 @@
-package Udemy.Java.course_Matriz.src.app;
+package course_Matriz.src.app;
 
 import java.util.Locale;
 import java.util.Scanner;
