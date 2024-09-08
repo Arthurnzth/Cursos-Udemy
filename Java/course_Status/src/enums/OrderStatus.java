@@ -1,4 +1,4 @@
-package enums;
+package course_Status.src.enums;
 
 public enum OrderStatus {
 

@@ -1,14 +1,14 @@
-package app;
+package course_Status.src.app;
 
 import java.time.LocalDateTime;
 
-import entities.Order;
-import enums.OrderStatus;
+import course_Status.src.entities.Order;
+import course_Status.src.enums.OrderStatus;
 
 public class Program {
     public static void main(String[] args) {
         
-        Order order = new Order(1080, LocalDateTime.now(), OrderStatus.PENDING_PAYMENT);
+        Order order = new Order(1040, LocalDateTime.now(), OrderStatus.PENDING_PAYMENT);
 
         System.out.println(order);
 

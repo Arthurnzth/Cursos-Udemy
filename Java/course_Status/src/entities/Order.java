@@ -1,8 +1,8 @@
-package entities;
+package course_Status.src.entities;
 
 import java.time.LocalDateTime;
 
-import enums.OrderStatus;
+import course_Status.src.enums.OrderStatus;
 
 public class Order {
 
