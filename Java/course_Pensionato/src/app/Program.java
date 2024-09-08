@@ -1,9 +1,9 @@
-package Udemy.Java.course_Pensionato.src.app;
+package course_Pensionato.src.app;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-import Udemy.Java.course_Pensionato.src.entities.Rent;
+import course_Pensionato.src.entities.Rent;
 
 public class Program {
     public static void main(String[] args) {

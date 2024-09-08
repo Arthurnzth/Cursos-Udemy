@@ -1,4 +1,4 @@
-package Udemy.Java.course_Pensionato.src.entities;
+package course_Pensionato.src.entities;
 
 public class Rent {
 
