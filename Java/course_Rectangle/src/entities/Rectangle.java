@@ -1,4 +1,4 @@
-package Udemy.Java.course_Rectangle.src.entities;
+package course_Rectangle.src.entities;
 
 import java.lang.Math;
 

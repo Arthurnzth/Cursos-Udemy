@@ -1,9 +1,9 @@
-package Udemy.Java.course_Rectangle.src.app;
+package course_Rectangle.src.app;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-import Udemy.Java.course_Rectangle.src.entities.Rectangle;
+import course_Rectangle.src.entities.Rectangle;
 
 public class Program {
     public static void main(String[] args) {
