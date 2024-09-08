@@ -1,11 +1,11 @@
-package Udemy.Java.course_Employees.src.app;
+package course_Employees.src.app;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
 import java.util.Scanner;
 
-import Udemy.Java.course_Employees.src.entities.Employee;
+import course_Employees.src.entities.Employee;
 
 public class Program {
     public static void main(String[] args) {

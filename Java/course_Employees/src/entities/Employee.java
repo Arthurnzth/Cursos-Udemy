@@ -1,4 +1,4 @@
-package Udemy.Java.course_Employees.src.entities;
+package course_Employees.src.entities;
 
 public class Employee {
 
