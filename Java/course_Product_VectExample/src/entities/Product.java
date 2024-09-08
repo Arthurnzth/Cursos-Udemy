@@ -1,4 +1,4 @@
-package Udemy.Java.course_Product_VectExample.src.entities;
+package course_Product_VectExample.src.entities;
 
 public class Product {
 
