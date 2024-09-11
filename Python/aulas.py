@@ -117,3 +117,10 @@ else:
 #? Introdução try/except
 # try -> tentar executar o código
 # except -> ocorreu algum erro ao tentar executar
+
+
+#? Extrutura de repetição:
+cont = 0
+while cont < 10:
+    cont += 1
+    print(cont)
