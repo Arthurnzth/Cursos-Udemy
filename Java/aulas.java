@@ -257,4 +257,11 @@
 - é a implementação de um método de uma superclasse na subcalsse
 * @Override
 * super
+
+? final -> evita que a classe seja herdada / evita que o método seja sobreposto
+
+# POLIMORFISMO
+- recurso que permite que variáveis de um mesmo tipo mais genérico possam apontar para objetos de tipos específicos diferentes, tendo comprtamentos
+diferentes conforme cada tipo específico
+* associação - upcasting (tempo de execução)
 */
