@@ -264,4 +264,15 @@
 - recurso que permite que variáveis de um mesmo tipo mais genérico possam apontar para objetos de tipos específicos diferentes, tendo comprtamentos
 diferentes conforme cada tipo específico
 * associação - upcasting (tempo de execução)
+
+# CLASSES ABSTRATAS
+- classes que não podem ser instanciadas
+* é uma forma de garantir herança total: somente subclasses não abstratas podem ser instanciadas, mas nunca a superclasse abstrata
+
+# METODOS ABSTRATOS
+- métodos que não possuem implementação
+- quando a calsse é genérica demais para conter sua implementação
+- se uma classe possui pelo menos um método abstrato, então ela também é abstrata
+
+? UML - italico
 */
