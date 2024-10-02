@@ -1,10 +1,10 @@
-package model.entities;
+package course_Reservation.src.model.entities;
 
 import java.time.Duration;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
-import model.exceptions.DomainException;
+import course_Reservation.src.model.exceptions.DomainException;
 
 public class Reservation {
 

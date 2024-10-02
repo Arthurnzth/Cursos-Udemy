@@ -1,12 +1,12 @@
-package app;
+package course_Reservation.src.app;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.time.format.DateTimeParseException;
 import java.util.Scanner;
 
-import model.entities.Reservation;
-import model.exceptions.DomainException;
+import course_Reservation.src.model.entities.Reservation;
+import course_Reservation.src.model.exceptions.DomainException;
 
 public class Program {
     public static void main(String[] args) {

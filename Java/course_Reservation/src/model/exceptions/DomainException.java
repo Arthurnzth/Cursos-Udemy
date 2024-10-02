@@ -1,4 +1,4 @@
-package model.exceptions;
+package course_Reservation.src.model.exceptions;
 
 public class DomainException extends Exception {
     
