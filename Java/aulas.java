@@ -274,5 +274,16 @@ diferentes conforme cada tipo específico
 - quando a calsse é genérica demais para conter sua implementação
 - se uma classe possui pelo menos um método abstrato, então ela também é abstrata
 
+# TRATAMENTO DE EXCESSÕES
+* estrutura try-cath:
+try {
+
+}
+catch (ExceptionType e) {
+
+}
+finaly {
+
+}
 ? UML - italico
 */
