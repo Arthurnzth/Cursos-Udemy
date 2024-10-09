@@ -286,4 +286,17 @@ finaly {
 
 }
 ? UML - italico
+
+# TRABALHANDO COM ARQUIVOS
+- File: Representação abstrata de um arquivo e seu caminho
+- Scanner: Leitor de texto
+- IOException (Exception)
+- FileReader: strem de leitura de caracteres a partir de arquivos
+- BufferedReader 
+- try-with-resources: try () {} catch () {}
+- FileWriter
+- BufferedWriter
+- File::isDirectory (pasta)
+- File::isFile (arquivo)
+- new File(path + "\\x").mkdir();
 */
