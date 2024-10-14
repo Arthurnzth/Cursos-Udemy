@@ -293,10 +293,15 @@ finaly {
 - IOException (Exception)
 - FileReader: strem de leitura de caracteres a partir de arquivos
 - BufferedReader 
-- try-with-resources: try () {} catch () {}
+* try-with-resources: try () {} catch () {}
 - FileWriter
 - BufferedWriter
 - File::isDirectory (pasta)
 - File::isFile (arquivo)
-- new File(path + "\\x").mkdir();
+* new File(path + "\\x").mkdir(); -> bool
+
+# INTERFACES
+- define um conjunto de operações que uma classe deve implementar
+* contrato que a classe deve cumprir
+? para criar sistemas com baixo acoplamento e flexíveis
 */
