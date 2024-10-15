@@ -304,4 +304,6 @@ finaly {
 - define um conjunto de operações que uma classe deve implementar
 * contrato que a classe deve cumprir
 ? para criar sistemas com baixo acoplamento e flexíveis
+
+...
 */
