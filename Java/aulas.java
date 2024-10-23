@@ -305,5 +305,8 @@ finaly {
 * contrato que a classe deve cumprir
 ? para criar sistemas com baixo acoplamento e flexíveis
 
-...
+# INTERFACE COMPARABLE
+* public interface Comparable<T> {
+*     int compareTo(T o);
+* }
 */
