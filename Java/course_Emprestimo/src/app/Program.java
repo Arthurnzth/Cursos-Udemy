@@ -3,7 +3,6 @@ package course_Emprestimo.src.app;
 import java.util.Locale;
 import java.util.Scanner;
 
-import course_Emprestimo.src.model.service.BrazilInterestService;
 import course_Emprestimo.src.model.service.InterestService;
 import course_Emprestimo.src.model.service.UsaInterestService;
 
