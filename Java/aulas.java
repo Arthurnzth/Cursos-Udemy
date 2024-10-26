@@ -312,4 +312,13 @@ finaly {
 
 # DEFAULT METHODS
 * evitar repetição de implementação em toda classe que implemente a interface
+
+! ==================================================================================================================================================== !
+
+# GENERICS
+- permite que classes, interfaces e metodos possam ser parametrizados por tipo
+* reuso
+* type safety
+* performance
+- coleções
 */
