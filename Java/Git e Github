@@ -11,6 +11,7 @@ git commit -m "..." -> salvar versão
 git branch -M "main"
 git remote add origin git@github.com:seuusuario/seurepositorio.git
 git push -u origin main
+git pull origin main
 
 ls -> ver arquivos no local
 
@@ -20,3 +21,5 @@ git log --oneline -> histórico de versões resumido
 git reset -> retira do stage
 git diff -> mostra a diferença entre arquivos modificados
 git checkout -> permite modificar temporariamente os arquivos do projeto ao estado de um dado commit ou branch
+git checkout -b nomeBranch -> criar branch
+git merge branch

@@ -309,4 +309,7 @@ finaly {
 * public interface Comparable<T> {
 *     int compareTo(T o);
 * }
+
+# DEFAULT METHODS
+* evitar repetição de implementação em toda classe que implemente a interface
 */
