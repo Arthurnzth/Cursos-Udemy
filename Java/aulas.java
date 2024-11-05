@@ -321,4 +321,8 @@ finaly {
 * type safety
 * performance
 - coleções
+
+# GENERICOS DELIMITADOS
+* public static <type extends Comparable<? super type>> type nome() {
+* }
 */
