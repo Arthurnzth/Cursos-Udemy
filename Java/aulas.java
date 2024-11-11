@@ -323,6 +323,16 @@ finaly {
 - coleções
 
 # GENERICOS DELIMITADOS
-* public static <type extends Comparable<? super type>> type nome() {
-* }
+? public static <type extends Comparable<? super type>> type nome() {
+? }
+
+# TIPOS CURINGA
+* o supertipo de qualquer tipo de lista é List<?>
+* não pode adicionar valores a uma lista de tipo curinga
+
+# CURINGAS DELIMITADOS
+? List<? extends X>
+? List<? super X>
+* covariância: get - ok / put - error
+* contravariância: get - error / put - ok
 */
