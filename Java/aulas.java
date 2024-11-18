@@ -335,4 +335,21 @@ finaly {
 ? List<? super X>
 * covariância: get - ok / put - error
 * contravariância: get - error / put - ok
+
+# SET
+* Set<type>
+- não admite repetições
+- elementos não possuem posição
+- acesso, inserção e remoção de elementos são rápidos
+- oferece operações eficientes de conjunto: interseção, união, diferença
+* HashSet - +rapido e não ordenado (operações O(1))
+? TreeSet - +lento e ordenado pelo compareTo do objeto ou Comparator (operações O(log(n)) em árvore rubro-negra)
+* LinkedHashSet - velocidade intermediária e elementos na ordem em que são adicionados
+* add(obj), remove(obj), contais(obj)
+- clear()
+* size()
+* removeIf(predicado)
+* addAll(other) - união
+* retainAll(other) - interseção
+* removeAll(other) - diferença
 */
