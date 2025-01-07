@@ -352,4 +352,12 @@ finaly {
 * addAll(other) - união
 * retainAll(other) - interseção
 * removeAll(other) - diferença
+
+# MAP
+* Map<K,V>
+* put(key, value), remove(key), containsKey(key), get(key)
+- clear()
+- size()
+* keySet() - retorna um Set<K>
+* values() - retorna um Collection<V>
 */
