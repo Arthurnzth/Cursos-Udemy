@@ -360,4 +360,42 @@ finaly {
 - size()
 * keySet() - retorna um Set<K>
 * values() - retorna um Collection<V>
+
+# COMPARATOR - ARROW FUNCTION
+* recurso que permite criar comparadores de forma rápida e prática, sem a necessidade de criar uma classe que implemente a interface Comparator
+* Comparator<type> comp = (obj1, obj2) -> {
+*     #TODO lógica de comparação
+* };
+*
+* list.sort((obj1, obj2) -> { lógica de comparação });
+
+# PROGRAMAÇÂO FUNCIONAL
+* expressões declarativas ("o quê")
+
+# STREAM
+
+* OPERAÇÕES INTERMEDIÁRIAS:
+* filter -> filtra baseado em um predicado
+* map -> aplica uma função para cada elemento da lista
+* flatmap
+* peek
+* distinct
+* sorted -> 
+* skip
+* limit(*)
+
+* OPERAÇÕES TERMINAIS:
+* forEach
+* collect -> 
+* count
+* forEachOrdered
+* min
+* max
+* findFirst(*)
+* findAny(*)
+* noneMatch(*)
+* anyMatch(*)
+* allMatch(*)
+* reduce -> combina todos os elementos da stream em um único resultado (soma, multiplicação, concatenação, encontrar máximo/mínimo)
+* toArray
 */
