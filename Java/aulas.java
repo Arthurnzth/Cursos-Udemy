@@ -380,7 +380,7 @@ finaly {
 * flatmap
 * peek
 * distinct
-* sorted -> 
+* sorted -> ordenar
 * skip
 * limit(*)
 
