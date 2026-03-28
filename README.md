@@ -19,9 +19,9 @@ Curso em andamento 😄
 - Trabalhando com arquivos ✅
 - Interfaces ✅
 - Generics, Set, Map ✅
-- Programação funcional e expressões lambda
+- Programação funcional e expressões lambda ✅
 - Acesso a banco de dados com JDBC
-- Spring Boot e JPA / Hibernate
+- Spring Boot e JPA / Hibernate (estudos no repositório <a href="https://github.com/Arthurnzth/Curso-SpringBoot">Curso-SpringBoot</a>)
 
 -----
 ## Python
