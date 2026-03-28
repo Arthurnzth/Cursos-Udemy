@@ -1,4 +1,4 @@
-package app;
+package course_EFStream.src.app;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -10,7 +10,7 @@ import java.util.Locale;
 import java.util.Scanner;
 import java.util.stream.Collectors;
 
-import model.entities.Employee;
+import course_EFStream.src.model.entities.Employee;
 
 public class Program {
 

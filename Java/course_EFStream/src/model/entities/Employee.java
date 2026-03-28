@@ -1,4 +1,4 @@
-package model.entities;
+package course_EFStream.src.model.entities;
 
 public class Employee {
 
